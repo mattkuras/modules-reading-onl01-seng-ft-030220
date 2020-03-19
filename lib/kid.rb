@@ -10,6 +10,6 @@ class Kid
   def initialize(name)
     @name = name 
   end
-  extend Metadancing 
+  extend MetaDancing 
   
 end
